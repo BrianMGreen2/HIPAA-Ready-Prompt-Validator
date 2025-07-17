@@ -1,8 +1,8 @@
 # HIPAA-Ready-Prompt-Validator
-Prompt artifacts lifecycle and is designed to enforce HIPAA guidelines with Validation Steps for Prompt Security and Accuracy
-# HIPAA-Ready Prompt Engineering: Clinical Care Manager Summary
+Prompt artifacts across the dev lifecycle, and is designed to enforce HIPAA guidelines with Validation Steps for Prompt Security and Accuracy
+# HIPAA-Ready Prompt Engineering: Clinical Care Manager Summary (example use case- remote patient monitoring)
 
-## Prompt Specification
+## Example Prompt Specification
 
 **Role:** You are a care manager reviewing patient-reported vital signs.
 
@@ -26,7 +26,7 @@ Please summarize the abnormalities and recommend if further review is needed by 
 - PHI fields are masked and restricted.
 - All prompt transmissions are encrypted.
 - Output storage complies with HIPAA.
-- Access limited to authorized clinical roles.
+- Access is limited to authorized clinical roles.
 
 ## Lifecycle Artifacts
 
